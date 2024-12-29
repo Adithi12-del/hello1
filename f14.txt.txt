@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 hi
 hello
 i m adithi
 i m doctor
-14
+
+=======
+12
+13
+>>>>>>> 98565c6 (c1)
